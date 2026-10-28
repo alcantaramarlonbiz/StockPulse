@@ -1,0 +1,6 @@
+{
+  "name": "StockPulse - Inventory & Barcode Manager",
+  "description": "Smart inventory management with camera barcode scanning, real-time low-stock alerts, and Google Sheets synchronization.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
